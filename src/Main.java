@@ -7,6 +7,8 @@ public class Main {
 
         Random random = new Random();
 
+
+        // Gets random number from 0-4
         int randomNumber = random.nextInt(5);
 
         switch (randomNumber) {
